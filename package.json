@@ -1,0 +1,26 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-hedgehog/tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-hedgehog/tdd/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-hedgehog/tdd#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
